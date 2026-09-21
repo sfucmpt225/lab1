@@ -53,7 +53,7 @@ There is something wrong with `noShowFee()` method of `Reservable` class.
 </details>
 
 ## Submission
-Submit to Canvas
+Zip the project directory and submit to Canvas
 
 ## Rubric
 | Criterion | ✓ Yes (1 pt) | ✗ No (0 pts) |
