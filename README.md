@@ -53,6 +53,7 @@ There is something wrong with `noShowFee()` method of `Reservable` class.
 </details>
 
 ## Submission
+Submit to Canvas
 
 ## Rubric
 # 5-Point Binary Rubric
