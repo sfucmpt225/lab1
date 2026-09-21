@@ -51,3 +51,7 @@ There is something wrong with one field of `Library` class.
 
 There is something wrong with `noShowFee()` method of `Reservable` class.
 </details>
+
+## Deadline
+Sunday, September 27, 2026, at 11:59 PM PDT
+
