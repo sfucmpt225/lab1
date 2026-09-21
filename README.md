@@ -56,8 +56,6 @@ There is something wrong with `noShowFee()` method of `Reservable` class.
 Submit to Canvas
 
 ## Rubric
-# 5-Point Binary Rubric
-
 | Criterion | ✓ Yes (1 pt) | ✗ No (0 pts) |
 |-----------|-------------|------------|
 | **Compilation Error 1 Fixed** | Meets requirement | Does not meet requirement |
@@ -66,7 +64,6 @@ Submit to Canvas
 | **Compilation Error 4 Fixed** | Meets requirement | Does not meet requirement |
 | **Compilation Error 5 Fixed** | Meets requirement | Does not meet requirement |
 | **Total** | **5/5** | |
-Compilation
 ---
 
 ## Deadline
