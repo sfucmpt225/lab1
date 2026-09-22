@@ -15,7 +15,6 @@ public class Book extends LibraryItem implements Reservable {
     private final String author;
 
     public Book(String id, String title, int year, String author) {
-        super(id, title, year); 
         this.author = author;
     }
 
